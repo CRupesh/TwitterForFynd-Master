@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FyndTwitter</string>
+
+    <string name="com.twitter.sdk.android.CONSUMER_KEY">CNijuDGDt8Tfcl5YljRZCZOFx</string>
+    <string name="com.twitter.sdk.android.CONSUMER_SECRET">SJ48h6LAyD8Nj9y17SDeGtY0Nmj9d2b6aqtrhUSf7IY0EUG2vH</string>
+</resources>
